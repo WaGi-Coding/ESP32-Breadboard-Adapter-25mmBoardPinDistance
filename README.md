@@ -7,10 +7,13 @@ It's designed for the "AZ-Delivery ESP32 DevKit C v4". If you have another Board
 
 ![image](https://user-images.githubusercontent.com/38970388/178162695-d2a2b482-63bd-4fe4-97f3-fff53c4c210c.png)
 ![image](https://user-images.githubusercontent.com/38970388/178162698-78b5fe60-a0a4-4615-99d2-b88f1fb2cfea.png)
+![image](https://user-images.githubusercontent.com/38970388/178164147-92ac52f6-6a4f-4bd7-aebe-58cdbdf970fa.png)
+
 
 
 You can DIRECTLY [ORDER FROM AISLER.NET HERE](https://aisler.net/p/QFYZRXHC) for very cheap. Here is also a 10€ Coupon Code (works atm [Jul. 10th 2022]).
 You can also upload the files to some other PCB Manufacturer for sure.
+
 
 
 ### You need:
@@ -20,3 +23,5 @@ You can also upload the files to some other PCB Manufacturer for sure.
  - (optional) A LED (5mm or smaller diameter) + Resistor Connected to GPIO2
 
 Made with KiCad
+
+PS: It's a 1.6mm thick, 4 Layer PCB with throughhole Vias
