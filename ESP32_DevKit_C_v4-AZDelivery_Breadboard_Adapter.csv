@@ -1,0 +1,6 @@
+"ID";"Bezeichner";"Gehäuse";"Stückzahl";"Bezeichnung";"Anbieter und Referenz";
+1;"D1";"LED_D5.0mm";1;"LED";;;
+2;"R1";"R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal";1;"R";;;
+3;"J5";"PinHeader_1x04_P2.54mm_Vertical";1;"Conn_01x04_Female";;;
+4;"J4,J3";"PinHeader_1x18_P2.54mm_Vertical";2;"Conn_01x18_Male";;;
+5;"J2,J1";"PinHeader_1x19_P2.54mm_Vertical";2;"Conn_01x19_Female";;;

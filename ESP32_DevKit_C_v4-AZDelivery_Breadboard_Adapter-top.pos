@@ -1,0 +1,11 @@
+### Module positions - created on Sun Jul 10 22:52:15 2022 ###
+### Printed by Pcbnew version (6.0.6)
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                Package                                                PosX       PosY       Rot  Side
+D1        LED                LED_D5.0mm                                         129.6000   -80.1900  180.0000  top
+J1        Conn_01x19_Female  PinHeader_1x19_P2.54mm_Vertical                    121.9000   -54.7900  -90.0000  top
+J2        Conn_01x19_Female  PinHeader_1x19_P2.54mm_Vertical                    121.9000   -79.7900  -90.0000  top
+J5        Conn_01x04_Female  PinHeader_1x04_P2.54mm_Vertical                    142.2400   -54.7900   90.0000  top
+R1        R                  R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal    86.3500   -72.6900    0.0000  top
+## End
