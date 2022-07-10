@@ -18,3 +18,5 @@ You can also upload the files to some other PCB Manufacturer for sure.
  - 2x 19Pin Female Header (Hard to find, i cut 40 Pin Headers because they are cheap and easy to get)
  - (optional) I2C OLED Module (128x64 or something fitting ^^) [GND, 5V, SCL, SDA]
  - (optional) A LED (5mm or smaller diameter) + Resistor Connected to GPIO2
+
+Made with KiCad
