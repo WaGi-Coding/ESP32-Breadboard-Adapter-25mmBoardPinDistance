@@ -1,18 +1,18 @@
-## Footprint report - date Mon Jul 11 04:46:16 2022
+## Footprint report - date Mon Jul 11 13:14:38 2022
 ## Created by Pcbnew version (6.0.6)
 ## Unit = mm, Angle = deg.
 
 $BeginDESCRIPTION
 
 $BOARD
-upper_left_corner 72.932500 47.119762
-lower_right_corner 207.565000 87.460238
+upper_left_corner 102.652500 83.779762
+lower_right_corner 237.285000 124.120238
 $EndBOARD
 
 $MODULE D1
 footprint LED_THT:LED_D5.0mm
 attribut none
-position 129.600000 80.190000  orientation 180.00
+position 159.320000 116.850000  orientation 180.00
 layer front
 $PAD "1"
 Shape Rect Layer both
@@ -31,21 +31,21 @@ $EndMODULE  D1
 $MODULE G***
 footprint LOGO
 attribut virtual
-position 116.900000 67.200000  orientation -90.00
+position 146.620000 103.860000  orientation -90.00
 layer front
 $EndMODULE  G***
 
 $MODULE G***
 footprint LOGO
 attribut virtual
-position 107.842314 68.630341  orientation 180.00
+position 137.562314 105.290341  orientation 180.00
 layer back
 $EndMODULE  G***
 
 $MODULE J1
 footprint Connectors:PinHeader_1x19_P2.54mm_Vertical
 attribut none
-position 121.900000 54.790000  orientation -90.00
+position 151.620000 91.450000  orientation -90.00
 layer front
 $PAD "1"
 Shape Circle Layer both
@@ -166,7 +166,7 @@ $EndMODULE  J1
 $MODULE J2
 footprint Connectors:PinHeader_1x19_P2.54mm_Vertical
 attribut none
-position 121.900000 79.790000  orientation -90.00
+position 151.620000 116.450000  orientation -90.00
 layer front
 $PAD "1"
 Shape Circle Layer both
@@ -287,7 +287,7 @@ $EndMODULE  J2
 $MODULE J3
 footprint Connectors:PinHeader_1x18_P2.54mm_Vertical
 attribut none
-position 205.740000 63.500000  orientation 90.00
+position 235.460000 100.160000  orientation 90.00
 layer back
 $PAD "1"
 Shape Circle Layer both
@@ -402,7 +402,7 @@ $EndMODULE  J3
 $MODULE J4
 footprint Connectors:PinHeader_1x18_P2.54mm_Vertical
 attribut none
-position 205.740000 71.120000  orientation 90.00
+position 235.460000 107.780000  orientation 90.00
 layer back
 $PAD "1"
 Shape Circle Layer both
@@ -517,7 +517,7 @@ $EndMODULE  J4
 $MODULE J5
 footprint Connectors:PinHeader_1x04_P2.54mm_Vertical
 attribut none
-position 142.240000 54.790000  orientation 90.00
+position 171.960000 91.450000  orientation 90.00
 layer front
 $PAD "1"
 Shape Circle Layer both
@@ -548,7 +548,7 @@ $EndMODULE  J5
 $MODULE R1
 footprint Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
 attribut none
-position 86.350000 72.690000  orientation 0.00
+position 116.070000 109.350000  orientation 0.00
 layer front
 $PAD "1"
 Shape Circle Layer both

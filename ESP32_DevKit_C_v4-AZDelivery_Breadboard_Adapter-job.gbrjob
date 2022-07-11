@@ -5,13 +5,13 @@
       "Application": "Pcbnew",
       "Version": "(6.0.6)"
     },
-    "CreationDate": "2022-07-11T04:45:58+02:00"
+    "CreationDate": "2022-07-11T13:14:15+02:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "ESP32_DevKit_C_v4-AZDelivery_Breadboard_Adapter",
       "GUID": "45535033-325f-4446-9576-4b69745f435f",
-      "Revision": "rev?"
+      "Revision": "2"
     },
     "Size": {
       "X": 133.1,
@@ -97,6 +97,7 @@
   "MaterialStackup": [
     {
       "Type": "Legend",
+      "Color": "R255G255B255",
       "Name": "Top Silk Screen"
     },
     {
@@ -105,6 +106,7 @@
     },
     {
       "Type": "SolderMask",
+      "Color": "Black",
       "Thickness": 0.01,
       "Name": "Top Solder Mask"
     },
@@ -151,6 +153,7 @@
     },
     {
       "Type": "SolderMask",
+      "Color": "Black",
       "Thickness": 0.01,
       "Name": "Bottom Solder Mask"
     },
@@ -160,6 +163,7 @@
     },
     {
       "Type": "Legend",
+      "Color": "R255G255B255",
       "Name": "Bottom Silk Screen"
     }
   ]

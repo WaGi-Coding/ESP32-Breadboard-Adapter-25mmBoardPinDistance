@@ -1,8 +1,8 @@
-### Module positions - created on Mon Jul 11 04:46:10 2022 ###
+### Module positions - created on Mon Jul 11 13:14:25 2022 ###
 ### Printed by Pcbnew version (6.0.6)
 ## Unit = mm, Angle = deg.
 ## Side : bottom
 # Ref     Val              Package                               PosX       PosY       Rot  Side
-J3        Conn_01x18_Male  PinHeader_1x18_P2.54mm_Vertical  -205.7400   -63.5000   90.0000  bottom
-J4        Conn_01x18_Male  PinHeader_1x18_P2.54mm_Vertical  -205.7400   -71.1200   90.0000  bottom
+J3        Conn_01x18_Male  PinHeader_1x18_P2.54mm_Vertical  -235.4600  -100.1600   90.0000  bottom
+J4        Conn_01x18_Male  PinHeader_1x18_P2.54mm_Vertical  -235.4600  -107.7800   90.0000  bottom
 ## End
