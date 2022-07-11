@@ -1,4 +1,4 @@
-## Footprint report - date Sun Jul 10 22:52:23 2022
+## Footprint report - date Mon Jul 11 04:46:16 2022
 ## Created by Pcbnew version (6.0.6)
 ## Unit = mm, Angle = deg.
 
@@ -15,13 +15,13 @@ attribut none
 position 129.600000 80.190000  orientation 180.00
 layer front
 $PAD "1"
-Shape Rechteck Layer both
+Shape Rect Layer both
 position  0.000000  0.000000  size  1.800000  1.800000  orientation 0.00
 drill  0.900000
 shape_offset  0.000000  0.000000
 $EndPAD
 $PAD "2"
-Shape Kreis Layer both
+Shape Circle Layer both
 position  2.540000  0.000000  size  1.800000  1.800000  orientation 0.00
 drill  0.900000
 shape_offset  0.000000  0.000000
@@ -31,15 +31,15 @@ $EndMODULE  D1
 $MODULE G***
 footprint LOGO
 attribut virtual
-position 107.842314 68.630341  orientation 180.00
-layer back
+position 116.900000 67.200000  orientation -90.00
+layer front
 $EndMODULE  G***
 
 $MODULE G***
 footprint LOGO
 attribut virtual
-position 116.900000 67.200000  orientation -90.00
-layer front
+position 107.842314 68.630341  orientation 180.00
+layer back
 $EndMODULE  G***
 
 $MODULE J1
@@ -48,7 +48,7 @@ attribut none
 position 121.900000 54.790000  orientation -90.00
 layer front
 $PAD "1"
-Shape Kreis Layer both
+Shape Circle Layer both
 position  0.000000  0.000000  size  1.700000  1.700000  orientation 360.00
 drill  1.000000
 shape_offset  0.000000  0.000000
@@ -169,7 +169,7 @@ attribut none
 position 121.900000 79.790000  orientation -90.00
 layer front
 $PAD "1"
-Shape Kreis Layer both
+Shape Circle Layer both
 position  0.000000  0.000000  size  1.700000  1.700000  orientation 360.00
 drill  1.000000
 shape_offset  0.000000  0.000000
@@ -290,7 +290,7 @@ attribut none
 position 205.740000 63.500000  orientation 90.00
 layer back
 $PAD "1"
-Shape Kreis Layer both
+Shape Circle Layer both
 position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
 drill  1.000000
 shape_offset  0.000000  0.000000
@@ -405,7 +405,7 @@ attribut none
 position 205.740000 71.120000  orientation 90.00
 layer back
 $PAD "1"
-Shape Kreis Layer both
+Shape Circle Layer both
 position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
 drill  1.000000
 shape_offset  0.000000  0.000000
@@ -520,7 +520,7 @@ attribut none
 position 142.240000 54.790000  orientation 90.00
 layer front
 $PAD "1"
-Shape Kreis Layer both
+Shape Circle Layer both
 position  0.000000  0.000000  size  1.700000  1.700000  orientation 0.00
 drill  1.000000
 shape_offset  0.000000  0.000000
@@ -551,7 +551,7 @@ attribut none
 position 86.350000 72.690000  orientation 0.00
 layer front
 $PAD "1"
-Shape Kreis Layer both
+Shape Circle Layer both
 position  0.000000  0.000000  size  1.600000  1.600000  orientation 0.00
 drill  0.800000
 shape_offset  0.000000  0.000000
