@@ -5,6 +5,8 @@ The Pin Sequence is the same as from the ESP itself, just 2 Ground Pins got remo
 
 It's designed for the "AZ-Delivery ESP32 DevKit C v4". If you have another Board, check the Pin mid distance, it should be 25mm, also check the Pinout of the mentioned Board.
 
+
+![image](https://i.imgur.com/ZwUT6Xt.jpg)
 ![image](https://user-images.githubusercontent.com/38970388/178162695-d2a2b482-63bd-4fe4-97f3-fff53c4c210c.png)
 ![image](https://user-images.githubusercontent.com/38970388/178162698-78b5fe60-a0a4-4615-99d2-b88f1fb2cfea.png)
 ![image](https://user-images.githubusercontent.com/38970388/178164147-92ac52f6-6a4f-4bd7-aebe-58cdbdf970fa.png)
